@@ -46,9 +46,20 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+RENDERED OUTPUT 
 
-### Name:
-### Register Number:
+<img width="1920" height="812" alt="image" src="https://github.com/user-attachments/assets/542c85d5-864b-489d-8146-129d852d3140" />
+
+FUSION 360
+
+<img width="1921" height="1201" alt="image" src="https://github.com/user-attachments/assets/3dbea896-4942-4d4b-b423-ce6e9162fb84" />
+
+ULTIMATE CURA
+
+<img width="1921" height="1201" alt="image" src="https://github.com/user-attachments/assets/3e9f7c57-e627-483f-86e9-b29dd9fb3bd2" />
+
+### Name: A PRANEYA
+### Register Number: 212224110045
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
